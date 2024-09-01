@@ -11,6 +11,9 @@ main.cpp
 main
 Test.h
 
+#vscode/settings.json
+.vscode/settings.json
+
 # User-specific files
 *.suo
 *.user
